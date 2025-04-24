@@ -4,7 +4,9 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg)](https://www.linkedin.com/in/sergo-khachikyan-3ab295312/)
+<a href="https://www.linkedin.com/in/sergo-khachikyan-3ab295312/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="LinkedIn" width="40" />
+</a>
 
 
 # 💻 Tech Stack:
