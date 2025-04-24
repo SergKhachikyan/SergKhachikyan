@@ -21,10 +21,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h2>🐍 GitHub Contribution Snake</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SergKhachikyan/SergKhachikyan/blob/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SergKhachikyan/SergKhachikyan/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://github.com/SergKhachikyan/SergKhachikyan/blob/output/github-contribution-grid-snake.svg" style="width: 100%; max-height: 300px;" />
-</picture>
+## 🐍 GitHub Contribution Snake
 
+![Snake animation](https://raw.githubusercontent.com/SergKhachikyan/SergKhachikyan/output/github-contribution-grid-snake.svg)
