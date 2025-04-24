@@ -2,7 +2,7 @@
 
 ![Excited Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-![Your GitHub Contribution Graph](https://github-contribution-graph-cov.herokuapp.com/graph?username=SergKhachikyan)
+![Animated Logo](https://upload.wikimedia.org/wikipedia/commons/6/6f/CodeIgniter_logo_animated.gif)
 
 
 # 💫 About Me:
