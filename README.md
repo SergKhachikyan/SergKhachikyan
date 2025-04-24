@@ -2,7 +2,7 @@
 
 ![Excited Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-![Dancing GIF](https://media.tenor.com/images/58d126519b4426c2495ff95daed8f1ab/tenor.gif)
+<iframe height="300" style="width: 100%;" scrolling="no" title="Interactive Animation" src="https://codepen.io/username/pen/XYZ" frameborder="no" loading="lazy"></iframe>
 
 
 # 💫 About Me:
