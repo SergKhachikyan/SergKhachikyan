@@ -23,4 +23,4 @@
 
 ## 🐍 GitHub Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/SergKhachikyan/SergKhachikyan/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/SergKhachikyan/SergKhachikyan/blob/output/github-contribution-grid-snake.gif)
