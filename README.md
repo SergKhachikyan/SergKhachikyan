@@ -3,6 +3,7 @@
 
 
 ## 🌐 Socials:
+
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg)](https://www.linkedin.com/in/sergo-khachikyan-3ab295312/)
 
 
