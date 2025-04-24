@@ -4,9 +4,7 @@
 
 ## 🌐 Socials:
 
-<a href="https://www.linkedin.com/in/sergo-khachikyan-3ab295312/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="LinkedIn" width="40" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergo-khachikyan-3ab295312/)
 
 
 # 💻 Tech Stack:
