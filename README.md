@@ -2,7 +2,7 @@
 
 ![Excited Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-![Animated Logo](https://upload.wikimedia.org/wikipedia/commons/6/6f/CodeIgniter_logo_animated.gif)
+![Dancing GIF](https://media.tenor.com/images/58d126519b4426c2495ff95daed8f1ab/tenor.gif)
 
 
 # 💫 About Me:
