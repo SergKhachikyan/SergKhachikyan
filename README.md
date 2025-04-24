@@ -1,3 +1,5 @@
+![Your GitHub Contribution Snake](https://github-readme-stats.vercel.app/api?username=SergKhachikyan&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
 # 💫 About Me:
 👋 Hi! I’m Sergo, a Junior Backend Developer specializing in Python. I have a strong interest in building efficient and scalable applications.<br><br>🔧 Skills:<br><br>Programming Languages: Python<br>Web Frameworks: Django, Django REST Framework<br>Database Management: SQL (MySQL, PostgreSQL)<br>Web Scraping: Proficient in using libraries like Beautiful Soup and Scrapy<br>Object-Oriented Programming (OOP): Strong foundational knowledge<br>Containerization: Docker<br>Version Control: Git<br>🌱 I’m passionate about learning new technologies and improving my skills, especially in backend development and data handling.<br><br>📫 Feel free to check out my projects or reach out to connect!
 
