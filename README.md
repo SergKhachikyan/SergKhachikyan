@@ -1,6 +1,6 @@
 ![Your GitHub Contribution Snake](https://github-readme-stats.vercel.app/api?username=SergKhachikyan&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-![Snake Animation](https://assets2.lottiefiles.com/packages/lf20_xfcnzvge.json)
+![Excited Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 
 # 💫 About Me:
