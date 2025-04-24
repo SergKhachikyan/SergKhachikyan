@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergo-khachikyan-3ab295312/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sergo-khachikyan-3ab295312/)
 
 
 # 💻 Tech Stack:
