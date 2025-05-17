@@ -20,7 +20,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SergKhachikyan&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SergKhachikyan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![hacker-vibes](https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif)
+![focused](https://media.giphy.com/media/xUOxfjsW4KDPu1c5So/giphy.gif)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SergKhachikyan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
