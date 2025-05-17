@@ -20,8 +20,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SergKhachikyan&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SergKhachikyan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![cyber](https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif)
-
+![darkdesk](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
 
 
 ## 🏆 GitHub Trophies
