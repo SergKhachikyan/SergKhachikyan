@@ -1,5 +1,6 @@
 # 💫 About Me
 👋 Hi! I’m Sergo, a Junior Backend Developer specializing in Python. I have a strong interest in building efficient and scalable applications.<br><br>🔧 Skills:<br><br>Programming Languages: Python<br>Web Frameworks: Django, Django REST Framework<br>Database Management: SQL, MySQL<br>Web Scraping: Proficient in using libraries like Beautiful Soup and Selenium<br>Object-Oriented Programming (OOP): Strong foundational knowledge<br>Machine Learning & AI: Experience with scikit-learn, pandas, NumPy; familiar with training, evaluating, and deploying ML models<br>Containerization: Docker<br>Version Control: Git<br>
+
 🌱 I’m passionate about learning new technologies and improving my skills, especially in backend development, data handling, and artificial intelligence.<br><br>📫 Feel free to check out my projects or reach out to connect!
 
 ![Программист за компьютером](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
